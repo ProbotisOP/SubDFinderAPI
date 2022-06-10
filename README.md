@@ -11,7 +11,7 @@
 	make sure you enter host without http or https.
 
 				example :  /sub/google.com
-								 /sub/yahoo.com
+					  /sub/yahoo.com
 							
               
 
